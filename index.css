@@ -1,0 +1,21 @@
+form {
+    margin: auto;
+    padding: 25px 25px;
+    border: solid 5px;
+    width: 40%;
+    background-color: blanchedalmond;
+}
+input {
+    width: 90%;
+    padding: 13px; 
+}
+button {
+    width: 95%;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+#checkbox {
+    width: auto;
+}
+
